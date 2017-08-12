@@ -3,23 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "react-scripts": "1.0.11",
+    "gh-pages": "^1.0.0",
     "homepage": "https://matijastampfel.github.io/YouTubeClone",
     "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
+    "react-scripts": "1.0.11",
     "redux": "^3.0.4",
     "webpack-build": "^1.0.1",
-    "youtube-api-search": "0.0.5",
-    "gh-pages": "^1.0.0"
+    "youtube-api-search": "0.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"    
+    "deploy": "gh-pages -d build"
   }
 }
