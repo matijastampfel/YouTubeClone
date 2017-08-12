@@ -2,6 +2,7 @@
   "name": "you-tube-clone",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://matijastampfel.github.io/YouTubeClone/",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
@@ -16,6 +17,7 @@
     "babel-preset-react": "^6.1.18",
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
+    "gh-pages": "^1.0.0",
     "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
