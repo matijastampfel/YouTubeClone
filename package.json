@@ -12,7 +12,8 @@
     "react-router": "^2.0.1",
     "redux": "^3.0.4",
     "webpack-build": "^1.0.1",
-    "youtube-api-search": "0.0.5"
+    "youtube-api-search": "0.0.5",
+    "gh-pages": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
